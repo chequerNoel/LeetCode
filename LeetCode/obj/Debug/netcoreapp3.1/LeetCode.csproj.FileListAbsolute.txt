@@ -1,0 +1,12 @@
+/Users/noel/RiderProjects/ConsoleApp1/LeetCode/bin/Debug/netcoreapp3.1/LeetCode.deps.json
+/Users/noel/RiderProjects/ConsoleApp1/LeetCode/bin/Debug/netcoreapp3.1/LeetCode.runtimeconfig.json
+/Users/noel/RiderProjects/ConsoleApp1/LeetCode/bin/Debug/netcoreapp3.1/LeetCode.runtimeconfig.dev.json
+/Users/noel/RiderProjects/ConsoleApp1/LeetCode/bin/Debug/netcoreapp3.1/LeetCode.dll
+/Users/noel/RiderProjects/ConsoleApp1/LeetCode/bin/Debug/netcoreapp3.1/LeetCode.pdb
+/Users/noel/RiderProjects/ConsoleApp1/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.csprojAssemblyReference.cache
+/Users/noel/RiderProjects/ConsoleApp1/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.AssemblyInfoInputs.cache
+/Users/noel/RiderProjects/ConsoleApp1/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.AssemblyInfo.cs
+/Users/noel/RiderProjects/ConsoleApp1/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.csproj.CoreCompileInputs.cache
+/Users/noel/RiderProjects/ConsoleApp1/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.dll
+/Users/noel/RiderProjects/ConsoleApp1/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.pdb
+/Users/noel/RiderProjects/ConsoleApp1/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.genruntimeconfig.cache
